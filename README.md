@@ -1,6 +1,6 @@
 # ImageCaptioningDL
 
-Code for this paper [Enhancing Image Captioning with Advanced Deep Learning Techniques.pdf](https://github.com/user-attachments/files/16580132/CV_Final_Proj_Report.pdf)
+Code for this paper [Enhancing Image Captioning with Advanced Deep Learning Techniques.pdf](https://github.com/user-attachments/files/16580155/Enhancing.Image.Captioning.with.Advanced.Deep.Learning.Techniques.pdf)
 
 Computer Vision Project - Enhancing Image Captioning with Advanced Deep Learning Techniques. 
 
