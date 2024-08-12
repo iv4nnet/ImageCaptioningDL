@@ -1,5 +1,6 @@
 # ImageCaptioningDL
 Computer Vision Project - Enhancing Image Captioning with Advanced Deep Learning Techniques. 
+
 By Anna Ivanchenko, Kimia Arfaie and Hamza Zafar
 
 ## Introduction
